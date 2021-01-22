@@ -17,6 +17,7 @@
   Download or copy the code below, and compile each, then run the (java source code) named classB.java in (jGrasp or any other IDE)
   
   classA.java
-  classB.java = (main)
+  
+  classB.java (main)
   
   Tic Tac Toe.jar (playable)
